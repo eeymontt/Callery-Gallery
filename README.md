@@ -1,5 +1,7 @@
 # Callery-Gallery
 
+<img src="https://i.imgur.com/RHGbSUc.png" alt="Callery Logo" width="100" height="auto">
+
 Intended to be a simple, lightweight gallery and lightbox. That's why it's called callery--because you'll find callery before any calories.
 
 <dl>
@@ -29,6 +31,9 @@ Intended to be a simple, lightweight gallery and lightbox. That's why it's calle
 - Hover is easy to notice (drop-shadow)
 
 *Lightbox*
+
+<img src="https://i.imgur.com/P6T7KlM.png" alt="Lightbox Design Goals Image" width="640" height="auto">
+
 - Left and right chevron controls
 - Tooltips after 2 seconds, transition on
 - Transition with 40% left and right side of the image
